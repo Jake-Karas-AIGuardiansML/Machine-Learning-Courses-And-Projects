@@ -22,19 +22,30 @@ This section contains a full foundational Python curriculum, including:
 
 ### Entry Level Modules
 Basic syntax, variables, operators
+
 Input/output
+
 Control flow (if/else, loops)
+
 Data types and type casting
+
 Functions, recursion, generators
+
 Exceptions and error handling
+
 Data collections (lists, tuples, dicts, strings)
 
 ### Associate Level Modules
 Modules and packages
+
 Strings and text processing
+
 Object‑oriented programming (inheritance, encapsulation, polymorphism, introspection)
+
 Exceptions (hierarchy, propagation, custom exceptions)
+
 File I/O, lambdas, comprehensions, closures
+
 Small projects (password generator, rock‑paper‑scissors, todo list)
 
 ### Skills demonstrated:  
@@ -45,28 +56,42 @@ A full end‑to‑end ML curriculum covering:
 
 ### Core Data Skills
 NumPy
+
 Pandas
+
 Matplotlib
+
 Seaborn
+
 Data analysis capstone project
 
 ### Supervised Learning
 Linear regression
+
 Logistic regression
+
 K‑Nearest Neighbors
+
 Support Vector Machines
+
 Decision trees
+
 Random forests
+
 Boosted trees (AdaBoost, Gradient Boosting)
 
 ### Unsupervised Learning
 K‑Means
+
 Hierarchical clustering
+
 DBSCAN
+
 PCA (manual + scikit‑learn)
 
 ### Model Deployment
 Model persistence
+
 Serving models via API
 
 ### Skills demonstrated:  
@@ -77,9 +102,13 @@ A real‑world applied ML/CV project completed before learning TensorFlow or PyT
 
 ### Project Highlights
 Built a dataset of water‑level images
+
 Performed classical ML modeling and regression
+
 Conducted exploratory analysis
+
 Produced a full written report and summary
+
 Demonstrated practical problem framing and evaluation
 
 This project serves as a baseline showing how my approach evolved once I learned deep learning frameworks.
@@ -89,18 +118,28 @@ A structured deep learning curriculum covering:
 
 ### Core Topics
 TensorFlow fundamentals
+
 Neural network regression
+
 Neural network classification
+
 Convolutional neural networks
+
 Transfer learning (feature extraction + fine‑tuning)
+
 NLP with TensorFlow
+
 TensorFlow Hub
+
 GPU‑accelerated training
+
 Callbacks, checkpoints, and regularization
 
 ### Major Projects
 Food Vision Big (Milestone Project 1)
+
 SkimLit (Milestone Project 2)
+
 Custom image augmentation and model experimentation
 
 ### Skills demonstrated:  
@@ -110,38 +149,59 @@ Deep learning fundamentals, CNNs, transfer learning, experiment tracking, and sc
 This folder contains polished, submission‑ready versions of:
 
 Food Vision Big
+
 SkimLit
+
 Shared helper functions
 
 These represent applied deep learning projects with real‑world datasets and reproducible pipelines.
 
 ## 6. PyTorch For Deep Learning Course
+
 A modern deep learning curriculum focused on PyTorch, representing my transition into a more flexible, research‑friendly, and production‑ready framework.
 
 ### Completed Modules
 PyTorch Fundamentals
+
 PyTorch Workflow
+
 Image Classification
+
 Computer Vision
+
 Custom Datasets & Dataloaders
+
 Going Modular (Cell Mode + Script Mode)
+
   data_setup.py
+
   engine.py
+
   model_builder.py
+
   train.py
+
   utils.py
 
 This mirrors real‑world PyTorch project organization.
 
 ### Upcoming Modules (In Progress)
 These units will be added as completed:
+
 Transfer Learning in PyTorch
+
 Experiment Tracking & Run Comparison
+
 Paper Replication (Reproducing Published Models)
+
 Model Deployment (APIs, export formats, serving)
+
 PyTorch 2.0 Features
+
   torch.compile
+
   Graph capture
+
   Performance tuning
 
 ### Skills demonstrated:  
