@@ -114,3 +114,35 @@ SkimLit
 Shared helper functions
 
 These represent applied deep learning projects with real‑world datasets and reproducible pipelines.
+
+## 6. PyTorch For Deep Learning Course
+A modern deep learning curriculum focused on PyTorch, representing my transition into a more flexible, research‑friendly, and production‑ready framework.
+
+### Completed Modules
+PyTorch Fundamentals
+PyTorch Workflow
+Image Classification
+Computer Vision
+Custom Datasets & Dataloaders
+Going Modular (Cell Mode + Script Mode)
+  data_setup.py
+  engine.py
+  model_builder.py
+  train.py
+  utils.py
+
+This mirrors real‑world PyTorch project organization.
+
+### Upcoming Modules (In Progress)
+These units will be added as completed:
+Transfer Learning in PyTorch
+Experiment Tracking & Run Comparison
+Paper Replication (Reproducing Published Models)
+Model Deployment (APIs, export formats, serving)
+PyTorch 2.0 Features
+  torch.compile
+  Graph capture
+  Performance tuning
+
+### Skills demonstrated:  
+Modern deep learning engineering, modular architecture, reproducible pipelines, and preparation for research‑grade and production‑grade workflows.
