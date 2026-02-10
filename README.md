@@ -296,3 +296,37 @@ pip install -r requirements.txt
 
 ## Launch notebooks
 jupyter notebook
+
+# Future Roadmap
+## PyTorch Course Completion
+Transfer learning modules
+
+Experiment tracking
+
+Paper replication
+
+Model deployment
+
+PyTorch 2.0 features
+
+## NFL Play Type Prediction
+Upload TensorFlow baseline
+
+Upload PyTorch migration
+
+Add migration write‑up and diagrams
+
+Add sequence models (LSTM, GRU, Transformer)
+
+Add situational feature engineering improvements
+
+Deploy interactive demo
+
+## Additional Enhancements
+PyTorch versions of earlier TensorFlow projects
+
+Football analytics dashboards
+
+Model interpretability tools (SHAP, Integrated Gradients)
+
+Expanded documentation and architecture diagrams
