@@ -278,3 +278,6 @@ PyTorch
 TorchVision
 
 TensorFlow Hub
+
+# How to Use This Repository
+## Clone the repo
