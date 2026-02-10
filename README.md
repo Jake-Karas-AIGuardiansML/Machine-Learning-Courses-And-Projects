@@ -288,3 +288,11 @@ TensorFlow Hub
 
 # How to Use This Repository
 ## Clone the repo
+git clone https://github.com/Jake-Karas-AIGuardiansML/Machine-Learning-Courses-And-Projects.git
+cd Machine-Learning-Courses-And-Projects
+
+## Install dependencies
+pip install -r requirements.txt
+
+## Launch notebooks
+jupyter notebook
