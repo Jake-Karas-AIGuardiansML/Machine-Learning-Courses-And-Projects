@@ -105,3 +105,12 @@ Custom image augmentation and model experimentation
 
 ### Skills demonstrated:  
 Deep learning fundamentals, CNNs, transfer learning, experiment tracking, and scalable training workflows.
+
+## 5. TensorFlow Projects
+This folder contains polished, submission‑ready versions of:
+
+Food Vision Big
+SkimLit
+Shared helper functions
+
+These represent applied deep learning projects with real‑world datasets and reproducible pipelines.
