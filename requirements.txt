@@ -26,12 +26,9 @@ tensorflow_probability 0.25.0
 
 PyTorch:
 torch 2.10.0 + cu128
-torchinfo
-torchmetrics
+torchinfo 1.8.0
+torchmetrics 1.8.2
 torchvision 0.25.0 + cu128
 
 Other:
-pathlib
-timeit
-tqdm
-zipfile
+tqdm 4.67.1
