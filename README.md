@@ -255,3 +255,26 @@ Sequence models for temporal prediction
 Deployment‑ready demo (Hugging Face Spaces or Streamlit)
 
 This will become the flagship project of the repository.
+
+# Technologies Used
+## Languages & Tools
+Python
+
+Jupyter Notebook
+
+## Libraries
+NumPy
+
+Pandas
+
+Scikit‑learn
+
+Matplotlib / Seaborn
+
+TensorFlow / Keras
+
+PyTorch
+
+TorchVision
+
+TensorFlow Hub
