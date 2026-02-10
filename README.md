@@ -206,3 +206,52 @@ PyTorch 2.0 Features
 
 ### Skills demonstrated:  
 Modern deep learning engineering, modular architecture, reproducible pipelines, and preparation for research‑grade and production‑grade workflows.
+
+## 7. In‑Progress: NFL Play Type Prediction (TensorFlow → PyTorch)
+### Phase 1 — TensorFlow Baseline (Completed)
+Built a working deep learning model to classify NFL play types using:
+
+Situational features
+
+Categorical encodings
+
+Dense neural networks
+
+Slice‑based error analysis
+
+This validated the modeling approach and dataset structure.
+
+### Phase 2 — Migration to PyTorch (In Progress)
+After evaluating long‑term maintainability and industry trends, I migrated the project to PyTorch.
+
+### Why PyTorch?
+More Pythonic and flexible
+
+Cleaner debugging and control
+
+Stronger ecosystem momentum
+
+Better long‑term maintainability
+
+Native GPU acceleration on my hardware
+
+Ideal for future sequence models (LSTM, GRU, Transformer)
+
+### Final Project Goals
+TensorFlow baseline (to be uploaded)
+
+PyTorch migration (in progress)
+
+Modular training loops
+
+Custom metrics and losses
+
+Situational feature engineering
+
+Slice‑based error analysis
+
+Sequence models for temporal prediction
+
+Deployment‑ready demo (Hugging Face Spaces or Streamlit)
+
+This will become the flagship project of the repository.
