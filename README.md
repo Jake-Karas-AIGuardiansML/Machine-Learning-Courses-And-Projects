@@ -6,12 +6,19 @@ This repository reflects a deliberate engineering mindset: master fundamentals �
 # Repository Structure
 
 Machine-Learning-Courses-And-Projects/
+
 ├── Python Programming Intro/
+
 ├── Traditional Machine Learning Course/
+
 ├── Water Level Identification Project/
+
 ├── TensorFlow For Deep Learning Course/
+
 ├── TensorFlow Projects/
+
 ├── PyTorch For Deep Learning Course/
+
 └── requirements.txt
 
 Each section represents a major stage in my learning journey.
