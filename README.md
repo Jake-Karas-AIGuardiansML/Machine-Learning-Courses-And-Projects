@@ -83,3 +83,25 @@ Produced a full written report and summary
 Demonstrated practical problem framing and evaluation
 
 This project serves as a baseline showing how my approach evolved once I learned deep learning frameworks.
+
+## 4. TensorFlow For Deep Learning Course
+A structured deep learning curriculum covering:
+
+### Core Topics
+TensorFlow fundamentals
+Neural network regression
+Neural network classification
+Convolutional neural networks
+Transfer learning (feature extraction + fine‑tuning)
+NLP with TensorFlow
+TensorFlow Hub
+GPU‑accelerated training
+Callbacks, checkpoints, and regularization
+
+### Major Projects
+Food Vision Big (Milestone Project 1)
+SkimLit (Milestone Project 2)
+Custom image augmentation and model experimentation
+
+### Skills demonstrated:  
+Deep learning fundamentals, CNNs, transfer learning, experiment tracking, and scalable training workflows.
