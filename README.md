@@ -339,3 +339,7 @@ Feel free to open an issue or submit a pull request.
 Jake Karas  
 Machine Learning Engineer & Workflow Architect
 GitHub: Jake-Karas-AIGuardiansML
+
+# Support My Work
+If you’d like to support my machine learning journey and help fund future projects, you can do so here:
+** Buy Me a Coffee:** Coming Soon
