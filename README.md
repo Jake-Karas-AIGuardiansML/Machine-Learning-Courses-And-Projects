@@ -39,3 +39,35 @@ Small projects (password generator, rock‑paper‑scissors, todo list)
 
 ### Skills demonstrated:  
 Clean coding habits, modular design, debugging, OOP fundamentals, and strong Python fluency — all foundational for ML and deep learning.
+
+## 2. Traditional Machine Learning Course
+A full end‑to‑end ML curriculum covering:
+
+### Core Data Skills
+NumPy
+Pandas
+Matplotlib
+Seaborn
+Data analysis capstone project
+
+### Supervised Learning
+Linear regression
+Logistic regression
+K‑Nearest Neighbors
+Support Vector Machines
+Decision trees
+Random forests
+Boosted trees (AdaBoost, Gradient Boosting)
+
+### Unsupervised Learning
+K‑Means
+Hierarchical clustering
+DBSCAN
+PCA (manual + scikit‑learn)
+
+### Model Deployment
+Model persistence
+Serving models via API
+
+### Skills demonstrated:  
+Feature engineering, preprocessing, model evaluation, visualization, and reproducible ML workflows.
