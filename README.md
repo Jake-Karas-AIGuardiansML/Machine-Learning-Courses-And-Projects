@@ -330,3 +330,12 @@ Football analytics dashboards
 Model interpretability tools (SHAP, Integrated Gradients)
 
 Expanded documentation and architecture diagrams
+
+# Contributions
+This is a personal learning and portfolio repository, but suggestions and improvements are welcome.
+Feel free to open an issue or submit a pull request.
+
+# Contact
+Jake Karas  
+Machine Learning Engineer & Workflow Architect
+GitHub: Jake-Karas-AIGuardiansML
