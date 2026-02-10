@@ -71,3 +71,15 @@ Serving models via API
 
 ### Skills demonstrated:  
 Feature engineering, preprocessing, model evaluation, visualization, and reproducible ML workflows.
+
+## 3. Water Level Identification Project (Pre‑Deep Learning)
+A real‑world applied ML/CV project completed before learning TensorFlow or PyTorch.
+
+### Project Highlights
+Built a dataset of water‑level images
+Performed classical ML modeling and regression
+Conducted exploratory analysis
+Produced a full written report and summary
+Demonstrated practical problem framing and evaluation
+
+This project serves as a baseline showing how my approach evolved once I learned deep learning frameworks.
