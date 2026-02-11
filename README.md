@@ -1,5 +1,7 @@
 # Machine-Learning-Courses-And-Projects
 
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Donate-yellow)](https://buymeacoffee.com/jakekaras)
+
 A comprehensive, chronological portfolio documenting my progression from Python fundamentals to classical machine learning, applied computer vision, and modern deep learning frameworks.
 This repository reflects a deliberate engineering mindset: master fundamentals → build real projects → evaluate tools critically → migrate to modern frameworks → tackle domain‑specific deep learning problems.
 
